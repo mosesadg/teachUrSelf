@@ -12,7 +12,6 @@ What problem does it solve? How does it solve the problem (conceptually)?Why doe
 Helps store object oriented data in a collection of objects/documents instead of in flat two dimensional tables.
 
 
-
 What are the alternatives?
 Cassandra
 CouchDB
