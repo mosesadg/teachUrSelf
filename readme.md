@@ -24,8 +24,10 @@ What is the history of this technology?
 First released in 2009
 
 Who built it and why?
-First developed by the software company MongoDB Inc.
+First developed by the software company MongoDB Inc as a component of a planned platform as a service product.
+
 Who is maintaining it?
+The company shifted to an open source development model in 2009, with MongoDB offering commercial support and other services
 
 What is your opinion on the technology after having built something with it?
 I folowed a tutorial and found it easy to implement. I used this on just one model. Will need to see how this works as a project gets bigger.
